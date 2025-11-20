@@ -46,7 +46,7 @@ Grenoble, France | May 2023 – Jul. 2023
 ## Selected Publications
 
 <div style="margin-bottom: 2em;">
-  <img src="/gaganm.github.io/images/WS_GRPO.png" alt="WS-GRPO" style="float: left; margin-right: 1em; margin-bottom: 0.5em; width: 200px; height: auto;">
+  <img src="{{ '/images/WS_GRPO.png' | prepend: site.baseurl }}" alt="WS-GRPO" style="float: left; margin-right: 1em; margin-bottom: 0.5em; width: 200px; height: auto;">
   <p>
     <strong>WS-GRPO: Weakly-Supervised Group-Relative Policy Optimization</strong><br>
     <strong>Gagan Mundada</strong> and co-authors<br>
@@ -55,7 +55,7 @@ Grenoble, France | May 2023 – Jul. 2023
 </div>
 
 <div style="margin-bottom: 2em; clear: both;">
-  <img src="/gaganm.github.io/images/survey.png" alt="RLVR Survey" style="float: left; margin-right: 1em; margin-bottom: 0.5em; width: 200px; height: auto;">
+  <img src="{{ '/images/survey.png' | prepend: site.baseurl }}" alt="RLVR Survey" style="float: left; margin-right: 1em; margin-bottom: 0.5em; width: 200px; height: auto;">
   <p>
     <strong>From Verifiable Rewards to Policy Learning: A Survey of Reinforcement Learning from Verifiable Rewards</strong><br>
     <strong>Gagan Mundada</strong> and co-authors<br>
@@ -64,7 +64,7 @@ Grenoble, France | May 2023 – Jul. 2023
 </div>
 
 <div style="margin-bottom: 2em; clear: both;">
-  <img src="/gaganm.github.io/images/wildscore.png" alt="WildScore" style="float: left; margin-right: 1em; margin-bottom: 0.5em; width: 200px; height: auto;">
+  <img src="{{ '/images/wildscore.png' | prepend: site.baseurl }}" alt="WildScore" style="float: left; margin-right: 1em; margin-bottom: 0.5em; width: 200px; height: auto;">
   <p>
     <strong>WildScore: Benchmarking MLLMs in-the-Wild Symbolic Music Reasoning</strong><br>
     <strong>Gagan Mundada</strong> and co-authors<br>
@@ -73,7 +73,7 @@ Grenoble, France | May 2023 – Jul. 2023
 </div>
 
 <div style="margin-bottom: 2em; clear: both;">
-  <img src="/gaganm.github.io/images/musiccrs.png" alt="MusiCRS" style="float: left; margin-right: 1em; margin-bottom: 0.5em; width: 200px; height: auto;">
+  <img src="{{ '/images/musiccrs.png' | prepend: site.baseurl }}" alt="MusiCRS" style="float: left; margin-right: 1em; margin-bottom: 0.5em; width: 200px; height: auto;">
   <p>
     <strong>MusiCRS: Benchmarking Music-Centric Conversational Recommendation</strong><br>
     <strong>Gagan Mundada</strong> and co-authors<br>
@@ -82,7 +82,7 @@ Grenoble, France | May 2023 – Jul. 2023
 </div>
 
 <div style="margin-bottom: 2em; clear: both;">
-  <img src="/gaganm.github.io/images/500x300.png" alt="SINR-Delay" style="float: left; margin-right: 1em; margin-bottom: 0.5em; width: 200px; height: auto;">
+  <img src="{{ '/images/500x300.png' | prepend: site.baseurl }}" alt="SINR-Delay" style="float: left; margin-right: 1em; margin-bottom: 0.5em; width: 200px; height: auto;">
   <p>
     <strong>SINR-Delay Constrained Node Localization in RIS-Assisted Time-Varying IoT Networks Using ML Frameworks</strong><br>
     <strong>Gagan Mundada</strong> and co-authors<br>
@@ -91,7 +91,7 @@ Grenoble, France | May 2023 – Jul. 2023
 </div>
 
 <div style="margin-bottom: 2em; clear: both;">
-  <img src="/gaganm.github.io/images/500x300.png" alt="Hyperspectral Imaging" style="float: left; margin-right: 1em; margin-bottom: 0.5em; width: 200px; height: auto;">
+  <img src="{{ '/images/500x300.png' | prepend: site.baseurl }}" alt="Hyperspectral Imaging" style="float: left; margin-right: 1em; margin-bottom: 0.5em; width: 200px; height: auto;">
   <p>
     <strong>Deep learning-based hyperspectral microscopic imaging for cholangiocarcinoma detection and classification</strong><br>
     <strong>Gagan Mundada</strong> and co-authors<br>
