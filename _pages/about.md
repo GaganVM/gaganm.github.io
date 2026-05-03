@@ -12,6 +12,53 @@ Welcome! I'm a Master's student in Computer Science at UC San Diego (Sep. 2024 �
 
 I completed my Bachelor of Technology in Electronics Engineering from the Indian Institute of Technology (BHU) Varanasi (Nov. 2020 – Jun. 2024) with a GPA of 3.98/4.00.
 
+## News
+
+<div class="news-section">
+  <div class="news-item">
+    <span class="news-date">Apr 2026</span>
+    <span class="news-text">Our paper <strong>WS-GRPO</strong> has been accepted at <strong>ICML 2026</strong>!</span>
+    <span class="news-badge news-badge--new">New</span>
+  </div>
+  <div class="news-item">
+    <span class="news-date">Apr 2026</span>
+    <span class="news-text">Our survey <strong>"From Verifiable Rewards to Policy Learning"</strong> has been accepted at <strong>ACL 2026</strong>!</span>
+    <span class="news-badge news-badge--new">New</span>
+  </div>
+  <div class="news-item">
+    <span class="news-date">Jan 2026</span>
+    <span class="news-text"><strong>MusiCRS</strong> accepted at <strong>IEEE ICASSP 2026</strong>.</span>
+  </div>
+  <div class="news-item">
+    <span class="news-date">Sep 2025</span>
+    <span class="news-text"><strong>WildScore</strong> accepted at <strong>EMNLP 2025</strong> Main Conference.</span>
+  </div>
+  <div class="news-item">
+    <span class="news-date">Jul 2025</span>
+    <span class="news-text">Started internship at <strong>San Diego Supercomputer Center</strong>.</span>
+  </div>
+  <div class="news-item">
+    <span class="news-date">Mar 2025</span>
+    <span class="news-text">Joined <strong>McAuley Lab</strong> at UC San Diego as an ML Intern.</span>
+  </div>
+  <div class="news-item">
+    <span class="news-date">Oct 2024</span>
+    <span class="news-text">Started working at <strong>Cosman Lab</strong>, UC San Diego.</span>
+  </div>
+  <div class="news-item">
+    <span class="news-date">Sep 2024</span>
+    <span class="news-text">Began MS in Computer Science at <strong>UC San Diego</strong>.</span>
+  </div>
+  <div class="news-item">
+    <span class="news-date">Jun 2024</span>
+    <span class="news-text">Graduated from <strong>IIT (BHU) Varanasi</strong> with B.Tech in Electronics Engineering.</span>
+  </div>
+  <div class="news-item">
+    <span class="news-date">May 2023</span>
+    <span class="news-text">Deep Learning internship at <strong>INRIA Morpheo</strong>, Grenoble, France.</span>
+  </div>
+</div>
+
 ## Education
 
 **University of California San Diego**  
@@ -44,7 +91,7 @@ Varanasi, UP | Nov. 2020 – Jun. 2024
       <strong>Gagan Mundada</strong> and co-authors
     </p>
     <p class="publication-card__venue">
-      Under review at ICML
+      ICML 2026
     </p>
     <div class="publication-card__actions">
       <a href="https://arxiv.org/abs/2602.17025" class="btn btn--primary btn--small" target="_blank" rel="noopener noreferrer">
@@ -64,7 +111,7 @@ Varanasi, UP | Nov. 2020 – Jun. 2024
       <strong>Gagan Mundada</strong> and co-authors
     </p>
     <p class="publication-card__venue">
-      Under review at ACL
+      ACL 2026
     </p>
   </div>
 </div>
