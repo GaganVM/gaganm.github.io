@@ -22,7 +22,7 @@ I completed my Bachelor of Technology in Electronics Engineering from the Indian
   </div>
   <div class="news-item">
     <span class="news-date">Apr 2026</span>
-    <span class="news-text">Our survey <strong>"From Verifiable Rewards to Policy Learning"</strong> has been accepted at <strong>ACL 2026</strong>!</span>
+    <span class="news-text">Our paper <strong>"Evaluating Language Model Pluralism"</strong> has been accepted at <strong>ACL 2026</strong>!</span>
     <span class="news-badge news-badge--new">New</span>
   </div>
   <div class="news-item">
@@ -109,6 +109,20 @@ Varanasi, UP | Nov. 2020 – Jun. 2024
     </p>
     <p class="publication-card__authors">
       <strong>Gagan Mundada</strong> and co-authors
+    </p>
+    <p class="publication-card__venue">
+      Under review at ACL
+    </p>
+  </div>
+</div>
+
+<div class="publication-card">
+  <div class="publication-card__content">
+    <p class="publication-card__title">
+      <strong>Evaluating Language Model Pluralism through In-the-wild Crowd Discussions</strong>
+    </p>
+    <p class="publication-card__authors">
+      <strong>Gagan Mundada</strong>, Rohan Surana, Nandhini Swaminathan, Bodhisattwa Prasad Majumder, Junda Wu, Julian McAuley, Zhouhang Xie
     </p>
     <p class="publication-card__venue">
       ACL 2026
